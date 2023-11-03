@@ -1,0 +1,2 @@
+# Basic_Sign_Language_detection_using_mediapipe
+ 
